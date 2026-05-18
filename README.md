@@ -35,11 +35,12 @@
 
 ---
 
+
 ## 📊 Live GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ayush-devcore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-devcore&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ayush-devcore&show_icons=true&theme=calm&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-devcore&layout=compact&theme=calm&langs_count=6" />
 </p>
 
 <p align="center">
