@@ -178,32 +178,10 @@ Identifying bottlenecks, optimizing queries, and keeping full-stack apps fast an
 
 ---
 
-## `> ./contribution-city.sh --render 3d`
 
 <div align="center">
 
-<!--
-  ⚙️  To enable the 3D Isometric Contribution City:
-  1. Create a GitHub Action using: yoshi389111/github-profile-3d-contrib
-  2. The generated SVG will appear at the path below automatically.
--->
-
-<img src="https://raw.githubusercontent.com/ayush-devcore/ayush-devcore/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" width="100%"/>
-
-</div>
-
----
-
-## `> snake --contribution-grid --mode=arcade`
-
-<div align="center">
-
-<!--
-  🐍  To enable the Contribution Snake:
-  1. Add the Platane/snk GitHub Action to your repo.
-  2. It will auto-generate the SVG below on every push to main.
--->
-
+<img src="https://raw.githubusercontent.com/ayush-devcore/ayush-devcore/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" width
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush-devcore/ayush-devcore/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayush-devcore/ayush-devcore/output/github-contribution-grid-snake.svg"/>
