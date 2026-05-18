@@ -1,125 +1,246 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ayush%20Bhatnagar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20and%20Open%20Source%20Maintainer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D2B,40:6A0DAD,100:0FF0FC&height=220&section=header&text=AYUSH%20BHATNAGAR&fontSize=62&fontColor=FFFFFF&fontAlignY=38&fontAlign=50&desc=ayush-devcore%20%7C%20Hardcoding%20the%20Future&descColor=0FF0FC&descSize=18&descAlignY=60&descAlign=50&animation=twinkling" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E2%80%9CThe%20best%20way%20to%20predict%20the%20future%20is%20to%20hardcode%20it.%E2%80%9D" alt="Typing introduction" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ayush-devcore">
-    <img src="https://komarev.com/ghpvc/?username=ayush-devcore&label=Profile%20views&color=00FFFF&style=flat-square" alt="ayush-devcore's profile views" />
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=ayush-devcore&style=for-the-badge&color=blueviolet&label=NEURAL+LINK+HITS)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/ayush-devcore?style=for-the-badge&color=BF5FFF&labelColor=0D0D2B&label=FOLLOWERS)&nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/ayush-devcore?style=for-the-badge&color=0FF0FC&labelColor=0D0D2B&label=TOTAL+STARS)
 
-## 📌 About Me
-- ⚡ Senior Chaos Engineer | Transforming high-grade caffeine into bulletproof production architectures.
-- 👾 Cyberpunk Rogue | Refusing standard conventions, hardening API contracts, and destroying bottlenecks.
-- 🚀 Project Admin @ BiasLens | Orchestrating elite open-source talent and ruling the GSSoC '26 matrix.
-- 🔥 Production Status: I don't just write code that works—I write code that dominates.
-
-
-## 🧠 My Focus Areas
-- ⚡ Advanced API Contract Hardening
-- 🤖 Deep Learning & AI Bias Mitigation
-- 🌐 High-Velocity Full-Stack Architectures
-- 🔥 Leading Open Source Matrixes
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/ayush-devcore">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayush-devcore&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="ayush-devcore's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=ayush-devcore&theme=synthwave&hide_border=true&cache_seconds=86400" alt="ayush-devcore's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ayush-devcore&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ayush Bhatnagar's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-devcore&theme=synthwave&radius=10" alt="ayush-devcore's Activity Graph" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/ayush-devcore">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayush-devcore&langs_count=8&layout=compact&theme=synthwave&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=ayush-devcore)
 <br/>
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-bhatnagar-dev/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ayushbhatnagar71@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://ayush-devcore-portfolio.netlify.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=BF5FFF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Full-Stack+Developer;%F0%9F%94%A5+Open+Source+Maintainer;%F0%9F%A7%A0+Senior+Chaos+Engineer;%F0%9F%A4%96+Cyberpunk+Rogue;%F0%9F%8C%90+GSSoC+'26+Project+Admin+%7C+BiasLens)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+</div>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+---
 
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║         >> SYSTEM BOOT: ayush-devcore.exe INITIALIZED           ║
+║         >> STATUS: ONLINE  |  STACK: FULL  |  BUGS: FEARED      ║
+║         >> MISSION: HARDCODING THE FUTURE, ONE COMMIT AT A TIME ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## `> whoami`
+
+```typescript
+const ayush: Developer = {
+  handle     : "ayush-devcore",
+  name       : "Ayush Bhatnagar",
+  titles     : ["Full-Stack Developer", "Open Source Maintainer",
+                 "Senior Chaos Engineer", "Cyberpunk Rogue"],
+  philosophy : "The best way to predict the future is to hardcode it.",
+  os         : "Arch Linux (btw)",
+  status     : "Turning caffeine → production-grade code  ☕ → 💻",
+  location   : "India  🇮🇳",
+};
+```
+
+<br/>
+
+I don't write code. I **architect systems** that outlast trends, **harden APIs** that hold under pressure, and **ship full-stack products** that refuse to break in production. When the logs are screaming and the database is on fire — I'm already three commits ahead with the fix.
+
+Currently orchestrating elite open-source talent as **Project Admin @ GSSoC '26**, leading the architecture of **BiasLens** — a responsible AI platform tackling bias at the model level.
+
+---
+
+## `> open_source --highlight`
+
+<div align="center">
+
+| Project | Role | Domain |
+|:---:|:---:|:---:|
+| **BiasLens** | 🛡️ Project Admin & Lead Architect | Responsible AI · Bias Mitigation |
+
+![GSSoC](https://img.shields.io/badge/GSSoC'26-Project%20Admin-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=0D0D2B)&nbsp;
+![BiasLens](https://img.shields.io/badge/BiasLens-Lead%20Architect-BF5FFF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D0D2B)&nbsp;
+![Open Source](https://img.shields.io/badge/Open%20Source-Maintainer-0FF0FC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D2B)
+
+</div>
+
+> Orchestrating elite open-source talent · Hardening API contracts · Building resilient production systems · Not just shipping features — shipping **architecture**.
+
+---
+
+## `> cat /etc/specialization.conf`
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🔐 API Security**
+
+Advanced contract hardening, bulletproof routing, and zero-tolerance fault boundaries. Your endpoints will not fail on my watch.
+
+</td>
+<td width="33%" align="center">
+
+**🧠 Responsible AI**
+
+Deep learning architectures fused with bias detection pipelines. Building AI that doesn't just perform — it performs *fairly*.
+
+</td>
+<td width="33%" align="center">
+
+**⚡ Performance**
+
+High-velocity full-stack delivery. Surgical elimination of bottlenecks, N+1 query nightmares, and latency spikes.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> ls -la /tech-stack/`
+
+### ⬡ Core Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### ⬡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### ⬡ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### ⬡ Databases & Cache
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ⬡ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)&nbsp;
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+### ⬡ Utilities
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## `> top --metrics`
+
+<div align="center">
+
+<a href="https://github.com/ayush-devcore">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush-devcore&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D0D2B&title_color=BF5FFF&icon_color=0FF0FC&text_color=FFFFFF&ring_color=BF5FFF"/>
+</a>
+<a href="https://github.com/ayush-devcore">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-devcore&layout=compact&theme=radical&hide_border=true&bg_color=0D0D2B&title_color=BF5FFF&text_color=FFFFFF&langs_count=8"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/ayush-devcore">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=ayush-devcore&theme=radical&hide_border=true&background=0D0D2B&stroke=BF5FFF&ring=BF5FFF&fire=0FF0FC&currStreakLabel=BF5FFF&sideLabels=CCCCCC&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+</a>
+
+</div>
+
+---
+
+## `> git log --graph --oneline`
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-devcore&custom_title=Ayush%27s%20Contribution%20Matrix&bg_color=0D0D2B&color=BF5FFF&line=0FF0FC&point=FF0080&area=true&area_color=6A0DAD&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `> achievement --unlock-all`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayush-devcore&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## `> ./contribution-city.sh --render 3d`
+
+<div align="center">
+
+<!--
+  ⚙️  To enable the 3D Isometric Contribution City:
+  1. Create a GitHub Action using: yoshi389111/github-profile-3d-contrib
+  2. The generated SVG will appear at the path below automatically.
+-->
+
+<img src="https://raw.githubusercontent.com/ayush-devcore/ayush-devcore/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" width="100%"/>
+
+</div>
+
+---
+
+## `> snake --contribution-grid --mode=arcade`
+
+<div align="center">
+
+<!--
+  🐍  To enable the Contribution Snake:
+  1. Add the Platane/snk GitHub Action to your repo.
+  2. It will auto-generate the SVG below on every push to main.
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush-devcore/ayush-devcore/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayush-devcore/ayush-devcore/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ayush-devcore/ayush-devcore/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+## `> ping --connect`
+
+<div align="center">
+
+<!-- 🔗 Replace the hrefs below with your actual profile URLs -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-bhatnagar)&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/ayushbhatnagar71)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayush-devcore.vercel.app)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushbhatnagar71@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   " The best way to predict the future is to hardcode it. "    │
+│                                           — Ayush Bhatnagar    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FF0FC,60:6A0DAD,100:0D0D2B&height=140&section=footer&reversal=false" width="100%"/>
