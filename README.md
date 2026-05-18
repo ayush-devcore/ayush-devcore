@@ -37,7 +37,6 @@ const ayush: Developer = {
   titles     : ["Full-Stack Developer", "Open Source Maintainer",
                  "Senior Chaos Engineer", "Cyberpunk Rogue"],
   philosophy : "The best way to predict the future is to hardcode it.",
-  os         : "Arch Linux (btw)",
   status     : "Turning caffeine → production-grade code  ☕ → 💻",
   location   : "India  🇮🇳",
 };
@@ -45,9 +44,9 @@ const ayush: Developer = {
 
 <br/>
 
-I don't write code. I **architect systems** that outlast trends, **harden APIs** that hold under pressure, and **ship full-stack products** that refuse to break in production. When the logs are screaming and the database is on fire — I'm already three commits ahead with the fix.
+I'm a full-stack developer who enjoys building things that actually work in production — clean APIs, solid backends, and UIs that don't fall apart. I care about writing code that's readable, scalable, and does what it's supposed to do.
 
-Currently orchestrating elite open-source talent as **Project Admin @ GSSoC '26**, leading the architecture of **BiasLens** — a responsible AI platform tackling bias at the model level.
+Currently contributing as **Project Admin @ GSSoC '26**, managing architecture and contributors for **BiasLens** — an open-source project focused on AI bias mitigation.
 
 ---
 
@@ -65,7 +64,7 @@ Currently orchestrating elite open-source talent as **Project Admin @ GSSoC '26*
 
 </div>
 
-> Orchestrating elite open-source talent · Hardening API contracts · Building resilient production systems · Not just shipping features — shipping **architecture**.
+> Managing contributors · Reviewing architecture · Building resilient production code · Focusing on quality over quantity.
 
 ---
 
@@ -77,21 +76,21 @@ Currently orchestrating elite open-source talent as **Project Admin @ GSSoC '26*
 
 **🔐 API Security**
 
-Advanced contract hardening, bulletproof routing, and zero-tolerance fault boundaries. Your endpoints will not fail on my watch.
+Building secure, well-structured APIs with proper validation, auth, and error handling that holds up under real-world conditions.
 
 </td>
 <td width="33%" align="center">
 
 **🧠 Responsible AI**
 
-Deep learning architectures fused with bias detection pipelines. Building AI that doesn't just perform — it performs *fairly*.
+Working with deep learning architectures and integrating bias detection — making AI systems that are actually fair and transparent.
 
 </td>
 <td width="33%" align="center">
 
 **⚡ Performance**
 
-High-velocity full-stack delivery. Surgical elimination of bottlenecks, N+1 query nightmares, and latency spikes.
+Identifying bottlenecks, optimizing queries, and keeping full-stack apps fast and scalable as they grow.
 
 </td>
 </tr>
