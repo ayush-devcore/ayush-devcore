@@ -176,19 +176,6 @@ Identifying bottlenecks, optimizing queries, and keeping full-stack apps fast an
 
 </div>
 
----
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayush-devcore/ayush-devcore/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" width
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush-devcore/ayush-devcore/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayush-devcore/ayush-devcore/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ayush-devcore/ayush-devcore/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
 
 ---
 
