@@ -12,12 +12,13 @@ As a natural team builder, I led engineering squads during the **2025 AMD Hackat
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-171-BD93F9?style=for-the-badge&logo=github&logoColor=white&labelColor=282A36" alt="Total Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-devcore&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="Ayush's GitHub Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=ayush-devcore&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-devcore&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
+
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
