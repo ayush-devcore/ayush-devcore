@@ -1,9 +1,6 @@
 # Hi, I'm Ayush Bhatnagar! 👋
 ### AI Engineering Student & Full-Stack Developer 🚀
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ayush-devcore&label=Profile%20views&color=0e7490&style=flat-block" alt="ayush-devcore" />
-</p>
 
 ---
 
