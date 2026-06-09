@@ -20,7 +20,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║         >> SYSTEM BOOT: ayush-devcore.exe INITIALIZED           ║
 ║         >> STATUS: ONLINE  |  STACK: FULL  |  BUGS: FEARED      ║
-║         >> MISSION: HARDCODING THE FUTURE, ONE COMMIT AT A TIME ║
+║         >> MISSION: HARDCODING THE FUTURE !! ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -35,7 +35,7 @@ const ayush: Developer = {
   handle     : "ayush-devcore",
   name       : "Ayush Bhatnagar",
   titles     : ["Full-Stack Developer", "Open Source Maintainer",
-                 "Senior Chaos Engineer", "Cyberpunk Rogue"],
+                 "Ethical AI Architect"],
   philosophy : "The best way to predict the future is to hardcode it.",
   status     : "Turning caffeine → production-grade code  ☕ → 💻",
   location   : "India  🇮🇳",
